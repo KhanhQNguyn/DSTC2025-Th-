@@ -1,2 +1,1 @@
-1. Working Sheet: https://docs.google.com/spreadsheets/d/1nM8izMBT1spmHefvl1Fw2b4nd-UGADCFjlgYvFcCqS0/edit?gid=0#gid=0
-2. 
+1. Instructions to run code are shown in "problem2_Thử.ipynb".
