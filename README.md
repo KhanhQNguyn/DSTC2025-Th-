@@ -22,9 +22,7 @@ nó không bị lỗi khi chạy thôi nên ưu tiên vẫn có sẵn file
 - service_account.json (tuỳ chọn)  
   File key của Google Service Account (dùng nếu bật Google Sheets).
 
-**Link gg sheet để theo dõi : https://docs.google.com/spreadsheets/d/
-17FRrF63TFE3bmAseoV4vQK5EA9nYaTaRRnLyd1F8MGU/edit?
-gid=414442089#gid=414442089**
+**Link gg sheet để theo dõi : https://docs.google.com/spreadsheets/d/17FRrF63TFE3bmAseoV4vQK5EA9nYaTaRRnLyd1F8MGU/edit?gid=414442089#gid=414442089**
 ---
 
 ## 2. File trạng thái runtime
@@ -57,8 +55,8 @@ Spike …).
 
 ---
 
-## 6. Các folder dữ liệu bổ sung (nằm trong folder dữ liệu chạy cảnh báo 
-trên github )
+## 6. Các folder dữ liệu bổ sung (nằm trong folder dữ liệu chạy cảnh báo trên github )
+ 
  Cần *giải nén file zip* trước khi chạy, để có thêm các thư mục sau:  
 - universe/ (có sẵn data universe mẫu).  
 - signals/ (có sẵn data tín hiệu).  
