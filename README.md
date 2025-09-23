@@ -22,6 +22,8 @@ nó không bị lỗi khi chạy thôi nên ưu tiên vẫn có sẵn file
 - service_account.json (tuỳ chọn)  
   File key của Google Service Account (dùng nếu bật Google Sheets).
 
+**Link telegram để theo dõi : https://t.me/DST2025_SignalBot**
+
 **Link gg sheet để theo dõi : https://docs.google.com/spreadsheets/d/17FRrF63TFE3bmAseoV4vQK5EA9nYaTaRRnLyd1F8MGU/edit?gid=414442089#gid=414442089**
 ---
 
